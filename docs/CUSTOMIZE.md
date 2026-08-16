@@ -581,7 +581,7 @@ To create a new collection, follow these steps. We will create a `courses` colle
 
    ```yaml
    nav: true
-   nav_order: 5
+   nav_order: false
    ```
 
    - `nav: true` makes the page appear in the navigation menu
