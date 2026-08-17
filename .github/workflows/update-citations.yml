@@ -1,7 +1,7 @@
 name: Update Google Scholar Citations
 
 on:
-  workflow_dispatch: 
+  workflow_dispatch:
 
 jobs:
   update-citations:
