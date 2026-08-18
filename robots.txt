@@ -1,4 +1,4 @@
 User-agent: *
 Disallow:
 
-Sitemap: https://sybil-bingqing-li.github.io/sitemap.xml
+Sitemap: https://sybil-li.github.io/sitemap.xml
