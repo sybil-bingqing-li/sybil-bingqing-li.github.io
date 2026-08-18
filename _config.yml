@@ -237,7 +237,7 @@ exclude:
   - _pages/projects.md
   - _pages/publications.md
   - _pages/repositories.md
-  - _pages/teaching.md
+  - _teachings/
   - AGENTS.md
   - al-folio-upgrade-report.md
   - bin/
