@@ -34,7 +34,6 @@ Before starting my PhD in 2025, I spent 8 years working as a software engineer.
 
 You can reach me at sybil.li@my.utexas.edu.
 
-
 <style>
 .social {
     text-align: right;
